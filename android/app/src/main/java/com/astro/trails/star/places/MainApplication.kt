@@ -1,4 +1,4 @@
-package com.astrotrailsstarplaces
+package com.astro.trails.star.places
 
 import android.app.Application
 import com.facebook.react.PackageList
