@@ -1,6 +1,6 @@
 workflows:
   sample-workflow:
-    name: At Star: Places Trails
+    name: At Star Places Trails
     max_build_duration: 120
     instance_type: mac_mini_m2
     integrations:
